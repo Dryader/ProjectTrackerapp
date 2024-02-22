@@ -1,0 +1,1 @@
+C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\ProjectTrackerApp.csproj;x64
