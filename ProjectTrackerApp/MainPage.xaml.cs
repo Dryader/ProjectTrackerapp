@@ -20,4 +20,16 @@ public partial class MainPage : ContentPage
         SummaryLabel.Text = _repository.TotalCostDeviation().ToString();
         DisplayAlert("Success", "Project was added", "Ok");
     }
+
+    private void DeleteButton_OnClicked(object sender, EventArgs e)
+    {
+        ProjectID.Text = "";
+        DueDate.Text = "";
+        Title.Text = "";
+    }
+
+    // private void ProjectsListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+    // {
+    //     throw new NotImplementedException();
+    // }
 }

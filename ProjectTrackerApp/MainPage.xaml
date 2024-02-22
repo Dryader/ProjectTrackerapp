@@ -15,6 +15,7 @@
             Grid.Column="0"
             FontAttributes="Bold"
             VerticalOptions="End"
+            x:Name="ProjectID"
             Margin="5"
             Text="Project Id" />
 
@@ -33,6 +34,7 @@
             FontAttributes="Bold"
             VerticalOptions="End"
             Margin="5"
+            x:Name="Title"
             Text="Title" />
         <Entry
             x:Name="TitleEntry"
@@ -49,6 +51,7 @@
             FontAttributes="Bold"
             VerticalOptions="End"
             Margin="5"
+            x:Name="DueDate"
             Text="Due Date" />
         <DatePicker
             x:Name="DueDatePicker"
@@ -115,6 +118,7 @@
                 Clicked="AddButton_OnClicked" />
             <Button
                 x:Name="DeleteButton"
+                Clicked="DeleteButton_OnClicked"
                 Text="Delete" />
             <Button
                 x:Name="ShowOverdueButton"
