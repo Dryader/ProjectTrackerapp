@@ -17,7 +17,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
     <LayoutDir>C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
-    <RegisteredManifestChecksum>55CA08C2F4B494E5A263CD88FCCC6A78E30C2A908597CA384083EFA99162A771</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>083649B34FC3DB25E28F0E4108C88B4C1619E6FA9D94FC5655CC2333E86D3AF1</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>80fb8ba0-f584-4456-81b6-6cdf1b51e7c2_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>80fb8ba0-f584-4456-81b6-6cdf1b51e7c2_9zz4h110yvjzm!App</RegisteredUserModeAppID>
     <RegisteredPackageID>80fb8ba0-f584-4456-81b6-6cdf1b51e7c2</RegisteredPackageID>
@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-02-22T17:51:50.390</Modified>
+      <Modified>2024-02-22T19:27:35.045</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-02-22T17:51:49.853</Modified>
+      <Modified>2024-02-22T19:27:34.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectTrackerApp.runtimeconfig.json">
       <PackagePath>ProjectTrackerApp.runtimeconfig.json</PackagePath>
@@ -43,15 +43,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectTrackerApp.dll">
       <PackagePath>ProjectTrackerApp.dll</PackagePath>
-      <Modified>2024-02-22T17:48:41.322</Modified>
+      <Modified>2024-02-22T19:27:33.984</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>ProjectTrackerApp.exe</PackagePath>
-      <Modified>2024-02-22T17:48:41.333</Modified>
+      <Modified>2024-02-22T19:27:33.990</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectTrackerApp.deps.json">
       <PackagePath>ProjectTrackerApp.deps.json</PackagePath>
-      <Modified>2024-02-22T17:48:42.267</Modified>
+      <Modified>2024-02-22T19:05:45.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.16\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -939,23 +939,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.200</Modified>
+      <Modified>2024-02-22T19:05:41.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.216</Modified>
+      <Modified>2024-02-22T19:05:41.118</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.238</Modified>
+      <Modified>2024-02-22T19:05:41.165</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.269</Modified>
+      <Modified>2024-02-22T19:05:41.234</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.387</Modified>
+      <Modified>2024-02-22T19:05:41.517</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -967,267 +967,267 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-02-22T17:48:40.432</Modified>
+      <Modified>2024-02-22T19:05:41.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.655</Modified>
+      <Modified>2024-02-22T19:05:42.041</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.665</Modified>
+      <Modified>2024-02-22T19:05:42.065</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.674</Modified>
+      <Modified>2024-02-22T19:05:42.088</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.690</Modified>
+      <Modified>2024-02-22T19:05:42.124</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.751</Modified>
+      <Modified>2024-02-22T19:05:42.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.499</Modified>
+      <Modified>2024-02-22T19:05:41.722</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.502</Modified>
+      <Modified>2024-02-22T19:05:41.728</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.513</Modified>
+      <Modified>2024-02-22T19:05:41.755</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.504</Modified>
+      <Modified>2024-02-22T19:05:41.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.506</Modified>
+      <Modified>2024-02-22T19:05:41.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.482</Modified>
+      <Modified>2024-02-22T19:05:41.684</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.485</Modified>
+      <Modified>2024-02-22T19:05:41.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.497</Modified>
+      <Modified>2024-02-22T19:05:41.717</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.488</Modified>
+      <Modified>2024-02-22T19:05:41.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.492</Modified>
+      <Modified>2024-02-22T19:05:41.702</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.446</Modified>
+      <Modified>2024-02-22T19:05:41.613</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.448</Modified>
+      <Modified>2024-02-22T19:05:41.619</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.451</Modified>
+      <Modified>2024-02-22T19:05:41.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.455</Modified>
+      <Modified>2024-02-22T19:05:41.634</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.459</Modified>
+      <Modified>2024-02-22T19:05:41.644</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.461</Modified>
+      <Modified>2024-02-22T19:05:41.653</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.466</Modified>
+      <Modified>2024-02-22T19:05:41.659</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.479</Modified>
+      <Modified>2024-02-22T19:05:41.679</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.469</Modified>
+      <Modified>2024-02-22T19:05:41.665</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.472</Modified>
+      <Modified>2024-02-22T19:05:41.669</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.555</Modified>
+      <Modified>2024-02-22T19:05:41.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.558</Modified>
+      <Modified>2024-02-22T19:05:41.851</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.563</Modified>
+      <Modified>2024-02-22T19:05:41.860</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.570</Modified>
+      <Modified>2024-02-22T19:05:41.874</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.585</Modified>
+      <Modified>2024-02-22T19:05:41.903</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.532</Modified>
+      <Modified>2024-02-22T19:05:41.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.536</Modified>
+      <Modified>2024-02-22T19:05:41.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.539</Modified>
+      <Modified>2024-02-22T19:05:41.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.544</Modified>
+      <Modified>2024-02-22T19:05:41.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.550</Modified>
+      <Modified>2024-02-22T19:05:41.834</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.515</Modified>
+      <Modified>2024-02-22T19:05:41.760</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.518</Modified>
+      <Modified>2024-02-22T19:05:41.768</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.522</Modified>
+      <Modified>2024-02-22T19:05:41.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.525</Modified>
+      <Modified>2024-02-22T19:05:41.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.529</Modified>
+      <Modified>2024-02-22T19:05:41.793</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.590</Modified>
+      <Modified>2024-02-22T19:05:41.913</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.595</Modified>
+      <Modified>2024-02-22T19:05:41.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.602</Modified>
+      <Modified>2024-02-22T19:05:41.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.615</Modified>
+      <Modified>2024-02-22T19:05:41.965</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.646</Modified>
+      <Modified>2024-02-22T19:05:42.023</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.441</Modified>
+      <Modified>2024-02-22T19:05:41.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.450</Modified>
+      <Modified>2024-02-22T19:05:41.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.463</Modified>
+      <Modified>2024-02-22T19:05:41.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.482</Modified>
+      <Modified>2024-02-22T19:05:41.678</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.522</Modified>
+      <Modified>2024-02-22T19:05:41.762</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy_face.scale-100.png">
       <PackagePath>happy_face.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.422</Modified>
+      <Modified>2024-02-22T19:05:41.558</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy_face.scale-125.png">
       <PackagePath>happy_face.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.424</Modified>
+      <Modified>2024-02-22T19:05:41.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy_face.scale-150.png">
       <PackagePath>happy_face.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.428</Modified>
+      <Modified>2024-02-22T19:05:41.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy_face.scale-200.png">
       <PackagePath>happy_face.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.431</Modified>
+      <Modified>2024-02-22T19:05:41.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\happy_face.scale-400.png">
       <PackagePath>happy_face.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.436</Modified>
+      <Modified>2024-02-22T19:05:41.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\neutral_face.scale-100.png">
       <PackagePath>neutral_face.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.422</Modified>
+      <Modified>2024-02-22T19:05:41.558</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\neutral_face.scale-125.png">
       <PackagePath>neutral_face.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.424</Modified>
+      <Modified>2024-02-22T19:05:41.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\neutral_face.scale-150.png">
       <PackagePath>neutral_face.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.426</Modified>
+      <Modified>2024-02-22T19:05:41.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\neutral_face.scale-200.png">
       <PackagePath>neutral_face.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.430</Modified>
+      <Modified>2024-02-22T19:05:41.570</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\neutral_face.scale-400.png">
       <PackagePath>neutral_face.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.435</Modified>
+      <Modified>2024-02-22T19:05:41.582</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\worried_face.scale-100.png">
       <PackagePath>worried_face.scale-100.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.422</Modified>
+      <Modified>2024-02-22T19:05:41.558</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\worried_face.scale-125.png">
       <PackagePath>worried_face.scale-125.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.424</Modified>
+      <Modified>2024-02-22T19:05:41.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\worried_face.scale-150.png">
       <PackagePath>worried_face.scale-150.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.428</Modified>
+      <Modified>2024-02-22T19:05:41.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\worried_face.scale-200.png">
       <PackagePath>worried_face.scale-200.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.430</Modified>
+      <Modified>2024-02-22T19:05:41.570</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\yuval\Downloads\MidtermBundle\ProjectTrackerApp\ProjectTrackerApp\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\worried_face.scale-400.png">
       <PackagePath>worried_face.scale-400.png</PackagePath>
-      <Modified>2024-02-22T17:48:40.436</Modified>
+      <Modified>2024-02-22T19:05:41.583</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
