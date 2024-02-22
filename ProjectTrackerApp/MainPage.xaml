@@ -111,7 +111,8 @@
             <!-- Spacing="10"> -->
             <Button
                 x:Name="AddButton"
-                Text="Add" />
+                Text="Add"
+                Clicked="AddButton_OnClicked" />
             <Button
                 x:Name="DeleteButton"
                 Text="Delete" />
